@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ceo\\Downloads\\Chart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B85DEE12-919B-4A39-A0FA-055817F06757}|Chart\\Chart.csproj|c:\\users\\ceo\\downloads\\chart\\chart\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B85DEE12-919B-4A39-A0FA-055817F06757}|Chart\\Chart.csproj|solutionrelative:chart\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85DEE12-919B-4A39-A0FA-055817F06757}|Chart\\Chart.csproj|c:\\users\\ceo\\downloads\\chart\\chart\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85DEE12-919B-4A39-A0FA-055817F06757}|Chart\\Chart.csproj|solutionrelative:chart\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85DEE12-919B-4A39-A0FA-055817F06757}|Chart\\Chart.csproj|c:\\users\\ceo\\downloads\\chart\\chart\\model\\gymdiscountdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85DEE12-919B-4A39-A0FA-055817F06757}|Chart\\Chart.csproj|solutionrelative:chart\\model\\gymdiscountdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85DEE12-919B-4A39-A0FA-055817F06757}|Chart\\Chart.csproj|c:\\users\\ceo\\downloads\\chart\\chart\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85DEE12-919B-4A39-A0FA-055817F06757}|Chart\\Chart.csproj|solutionrelative:chart\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ceo\\Downloads\\Chart\\Chart\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Chart\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\ceo\\Downloads\\Chart\\Chart\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "Chart\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T04:42:58.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GymDiscountData.cs",
+              "DocumentMoniker": "C:\\Users\\ceo\\Downloads\\Chart\\Chart\\Model\\GymDiscountData.cs",
+              "RelativeDocumentMoniker": "Chart\\Model\\GymDiscountData.cs",
+              "ToolTip": "C:\\Users\\ceo\\Downloads\\Chart\\Chart\\Model\\GymDiscountData.cs",
+              "RelativeToolTip": "Chart\\Model\\GymDiscountData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T04:42:09.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ceo\\Downloads\\Chart\\Chart\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Chart\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ceo\\Downloads\\Chart\\Chart\\MainWindow.xaml",
+              "RelativeToolTip": "Chart\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-26T08:04:35.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ceo\\Downloads\\Chart\\Chart\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Chart\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ceo\\Downloads\\Chart\\Chart\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Chart\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T04:20:37.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
